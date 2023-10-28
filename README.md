@@ -1,6 +1,6 @@
 # Vehicle Detection Project
 
-![Project Demo](demo.png)
+![Project Demo]([demo.png](https://github.com/ad5454/Vehicle-Detection/blob/main/Screenshot%202023-10-29%20002922.png))
 
 This project aims to perform real-time vehicle and pedestrian detection using computer vision techniques. It uses Haar cascades for vehicle and pedestrian detection. The goal is to detect and count the number of vehicles and pedestrians in a video stream. This README provides an overview of the project and instructions for running it.
 
